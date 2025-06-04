@@ -17,5 +17,5 @@ void main(){
     }
   };
   
-  print("My name is $name, i am $age years old with $weight Kgs, my siblings are: $siblings and my parents: $parents, details of my girlfriend are: $friend , Thankyou") ;
+  print("My name is $name, i am $age years old with $weight Kgs, i am $isMarried, my siblings are: $siblings and my parents: $parents, details of my girlfriend are: $friend , Thankyou") ;
 }
